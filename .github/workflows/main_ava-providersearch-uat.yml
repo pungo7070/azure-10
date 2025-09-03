@@ -57,4 +57,4 @@ jobs:
           app-name: 'ava-providersearch-uat'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DA8487C2658245AC951332044757D9F8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1CC962B797364A5EB36D75034DDD9B3E }}
